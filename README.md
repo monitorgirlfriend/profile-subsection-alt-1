@@ -1,22 +1,9 @@
-  <p align="center">
-  <img src="https://files.catbox.moe/3b41q4.gif" width="300px"/>
-  </p>
-
-<h3 align="center">$${\color{mediumblue}the  big  ones}$$</h3>
-<h4 align="center">$${\color{grey} aka..my..main..interests }$$</h4>
-<p align="center">$${\color{royalblue} hlvrai }$$<br>
-  $${\color{royalblue}charborg }$$<br>
-  $${\color{royalblue}half life }$$<br>
-  $${\color{royalblue}portal }$$<br>
-  $${\color{royalblue} scp }$$<br>
-  $${\color{royalblue}postal }$$ <br> </p>
-  <p align="center">
-  <img src="https://files.catbox.moe/kixhkz.jpg" width="500px"/>
-  </p>
-  <h3 align="center">$${\color{darkorange}the  other  ones}$$</h3>
-  <p align="center">$${\color{chocolate} mlp }$$<br>
-  $${\color{chocolate}freemind }$$<br>
-  $${\color{chocolate}egor linch }$$<br>
-  $${\color{chocolate}gta v }$$<br>
-  $${\color{chocolate}rdr2 }$$<br>
-  $${\color{chocolate}cyberpunk 2077 }$$</p>
+<p align="center"> <img height="200px" src="https://i.pinimg.com/originals/fc/01/06/fc0106026cb93e313abee670aba1133a.gif"/><br>
+<b>games;</b> <code>postal</code>, disco elysium, portal, <code>half life</code>, mouthwashing, gta v,<br><code>rdr2</code>, cyberpunk 2077, stardew valley, <code>animal crossing</code>, tf2, project zomboid,<br>corpse party<br>
+  <br>
+<b>series & streamers;</b> <code>charborg</code>, egor linch, <code>hlvrai</code>, jolly wangcore, <code>wobowobo</code>, <br>
+  <code>criken</code>, breaking bad, mlp, xaiver renegade angel<br>
+<br>
+<b>misc.;</b> <code>scp</code>, philosophy, american psycho (book), hardcore henry, the adventure zone<br></p>
+<hr>
+<p align="center"><sub><code>highlighted;</code> current fav</sub>
