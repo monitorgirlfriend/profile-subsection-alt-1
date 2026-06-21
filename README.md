@@ -4,6 +4,6 @@
 <b>series & streamers;</b> <code>charborg</code>, egor linch, <code>hlvrai</code>, jolly wangcore, <code>wobowobo</code>, <br>
   <code>criken</code>, breaking bad, mlp, xaiver renegade angel<br>
 <br>
-<b>misc.;</b> <code>scp</code>, philosophy, american psycho (book), hardcore henry, the adventure zone<br></p>
+<b>misc.;</b> <code>scp</code>, philosophy, american psycho (book), hardcore henry, the adventure zone,<br>little shop of horrors<br></p>
 <hr>
 <p align="center"><sub><code>highlighted;</code> current fav</sub>
