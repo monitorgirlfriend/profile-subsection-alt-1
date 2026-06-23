@@ -2,7 +2,7 @@
 <b>games;</b> <code>postal</code>, disco elysium, portal, <code>half life</code>, mouthwashing, gta v,<br><code>rdr2</code>, cyberpunk 2077, stardew valley, <code>animal crossing</code>, tf2, project zomboid,<br>corpse party<br>
   <br>
 <b>series & streamers;</b> <code>charborg</code>, egor linch, <code>hlvrai</code>, jolly wangcore, <code>wobowobo</code>, <br>
-  <code>criken</code>, breaking bad, mlp, xaiver renegade angel<br>
+  <code>criken</code>, breaking bad, mlp<br>
 <br>
 <b>misc.;</b> <code>scp</code>, philosophy, american psycho (book), hardcore henry, the adventure zone,<br>little shop of horrors<br></p>
 <hr>
